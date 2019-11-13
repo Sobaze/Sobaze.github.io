@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My opinions"
+title:  "My Opinions"
 date:   2019-11-10 07:25:14 -0600
 categories: jekyll update
 ---

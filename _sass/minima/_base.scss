@@ -107,7 +107,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($brand-color, 10%);
   }
 
   &:hover {
@@ -116,6 +116,7 @@ a {
   }
 
   .social-media-list &:hover {
+    
     text-decoration: none;
 
     .username {
@@ -175,6 +176,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+  background-color: rgb(71, 87, 71);
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
@@ -212,7 +214,8 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    
+    color: black;
     padding-right: 5px;
     vertical-align: text-top;
 }
