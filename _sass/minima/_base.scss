@@ -102,9 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
- main a {
-   color: rgb(31, 109, 161);
- }
+
 a {
   color: $brand-color;
   text-decoration: none;
@@ -227,7 +225,7 @@ pre {
     display: inline-block;
     
     color: black;
-    padding-right: 5px;
+    padding-right: 2px;
     vertical-align: text-top;
 }
 
