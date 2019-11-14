@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 7px solid $grey-color-dark;
+  border-bottom: 0px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -12,11 +12,18 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  
+  text-shadow: 
+  1px 1px 0 lime, -1px 1px 0 lime, 1px -1px 0 lime, -1px -1px 0 lime, 0px 1px 0 lime, 
+  0px -1px 0 lime, -1px 0px 0 lime, 1px 0px 0 lime, 2px 2px 0 lime, -2px 2px 0 lime, 
+  2px -2px 0 lime, -2px -2px 0 lime, 0px 2px 0 lime, 0px -2px 0 lime, -2px 0px 0 lime, 
+  2px 0px 0 lime,1px 2px 0 lime, -1px 2px 0 lime, 1px -2px 0 lime, -1px -2px 0 lime, 
+  2px 1px 0 lime,-2px 1px 0 lime, 2px -1px 0 lime, -2px -1px 0 lime;
 
   &,
   &:visited {
@@ -27,6 +34,12 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  text-shadow: 
+  1px 1px 0 lime, -1px 1px 0 lime, 1px -1px 0 lime, -1px -1px 0 lime, 0px 1px 0 lime,
+  0px -1px 0 lime, -1px 0px 0 lime, 1px 0px 0 lime, 2px 2px 0 lime, -2px 2px 0 lime, 
+  2px -2px 0 lime, -2px -2px 0 lime, 0px 2px 0 lime, 0px -2px 0 lime, -2px 0px 0 lime, 
+  2px 0px 0 lime, 1px 2px 0 lime, -1px 2px 0 lime, 1px -2px 0 lime, -1px -2px 0 lime, 
+  2px 1px 0 lime, -2px 1px 0 lime, 2px -1px 0 lime, -2px -1px 0 lime;
 
   .nav-trigger {
       display: none;
@@ -129,7 +142,7 @@
 }
 
 .footer-col {
-  float: left;
+  float: right;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }

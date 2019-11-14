@@ -4,7 +4,16 @@ title:  "My Opinions"
 date:   2019-11-10 07:25:14 -0600
 categories: jekyll update
 ---
-What do i think of precompiled CSS?
+Pre-compiling CSS. What do i think of it?
+
+- Comparison between pre-compiled CSS and regular CSS.
+
+- Techniques I used
+
+- Pros and cons.
 
 
-What do i think of static site generators?
+Static site generators. What do i think of it?
+
+what typ of projects are they suitable for?
+

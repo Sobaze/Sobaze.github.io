@@ -102,9 +102,13 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+ main a {
+   color: rgb(31, 109, 161);
+ }
 a {
   color: $brand-color;
   text-decoration: none;
+
 
   &:visited {
     color: darken($brand-color, 10%);
@@ -112,7 +116,13 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    
+    text-shadow: 
+    1px 1px 0 red, -1px 1px 0 red, 1px -1px 0 red, -1px -1px 0 red, 0px 1px 0 red,
+    0px -1px 0 red, -1px 0px 0 red, 1px 0px 0 red, 2px 2px 0 red, -2px 2px 0 red, 
+    2px -2px 0 red, -2px -2px 0 red, 0px 2px 0 red, 0px -2px 0 red, -2px 0px 0 red, 
+    2px 0px 0 red, 1px 2px 0 red, -1px 2px 0 red, 1px -2px 0 red, -1px -2px 0 red, 
+    2px 1px 0 red, -2px 1px 0 red, 2px -1px 0 red, -2px -1px 0 red;
   }
 
   .social-media-list &:hover {
@@ -176,7 +186,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  background-color: rgb(71, 87, 71);
+  
+  background-color: rgba(71, 87, 71, 0.3);
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
