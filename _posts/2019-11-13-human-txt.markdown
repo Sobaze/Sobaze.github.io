@@ -5,3 +5,7 @@ date:   2019-11-13 07:25:14 -0600
 categories: jekyll update
 ---
 What is humans.txt and how did I use it on my site?
+
+It is a file that contains information about the different people that were part of creating the site.  It is used as it is an easy and fast method where you can show who the creators where. It also doesnt interfere with the code that is written. It's not needed to create one and the only purpose it has is that you get a chance to get to know the creators.
+
+I used my inspiration from the humanstxt.org and built mine up in a similiar way where I listed the ones who have worked on the site, then I listed people I wanted to thank for the help they have done during the process of making the site and lastly I listed information about the site which say when it was last update what language it is written in and what kind of IDE was used while doing it.

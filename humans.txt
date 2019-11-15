@@ -1,0 +1,17 @@
+/* TEAM */
+        Commander of the 1 man team: Jonas Nilsson
+        Contact: nilsson760@gmail.com 
+        Twitter: @JonasNilsson17
+        From: Kalmar, Sverige
+
+
+/* THANKS */
+            Friend(who I asked for advice on the pages looks): Albert
+            From: Kalmar, Sverige
+
+
+/* SITE */ 
+        Last Update: 2019/11/15
+        Language: English
+        Doctype: html
+        IDE: Visual Studio Code

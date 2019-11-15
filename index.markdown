@@ -5,4 +5,5 @@
 layout: home
 
 ---
+
 Welcome to the Weeb Commanders blogg. My blogg serves the purpose of me talking about the animes I've been watching and my opinions of them.

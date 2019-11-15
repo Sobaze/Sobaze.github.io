@@ -15,4 +15,4 @@ trio to splitt up but even when still in highschool Ayase is a big karuta freak 
 With the goal to start her own karuta club at school she is looking for people to come to like the game as much as she is.
 
 You might be sitting here thinking how an anime about people playing a traditionall card game can be any fun.
-Let me tell you that you will quickly change your mind about this anime as it can totally hype you up and catch you offguard with emotion. It also has amazing artwork which makes it a bliss to the eye to watch.
+Let me tell you that you will quickly change your mind about this anime as it can totally hype you up and catch you offguard with emotion. It also has amazing artwork which makes it a bliss to the eye to watch. I loved this anime very much and I couldn't stop watching it until it was finished.
